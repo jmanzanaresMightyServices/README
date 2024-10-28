@@ -13,4 +13,5 @@ Welcome to my GitHub profile. I'm passionate about web development and I love cr
 📫 Contact If you're interested in collaborating on exciting projects or just want to say hello, you can reach me through the following channels:
     Email: manzanares.jorge.jm@gmail.com or jmanzanares@mightyservices.in
 
-🙌 Thank you for visiting my profile Thank you for taking the time to visit my GitHub profile! I hope you find my projects interesting and useful. If you have any suggestions or comments, please don't hesitate to let me know. Enjoy your day!
+🙌 Thank you for visiting my profile
+    Thank you for taking the time to visit my GitHub profile! I hope you find my projects interesting and useful. If you have any suggestions or comments,         please don't hesitate to let me know. Enjoy your day!
